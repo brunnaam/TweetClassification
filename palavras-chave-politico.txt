@@ -1,0 +1,18 @@
+palavras-chaves:
+Dilma
+Lula
+Temer
+presidente do brasil
+bolsonaro
+camara dos deputados 
+deputado estadual
+deputado federal
+reforma da previdência
+operação lava-jato
+cpi da jbs
+gilmar mendes
+joesley batista
+           
+exclusão das palavras-chaves:
+-#foraTemer 
+-'Fora Temer'
